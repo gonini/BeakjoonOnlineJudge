@@ -11,5 +11,8 @@
 
 Updated solution
 =
- - **2156 포도주 시식** (C++)
- - **11729 하노이 탑 이동 순서** (C++)
+ - **2156 포도주 시식** ([C++][2156])
+ - **11729 하노이 탑 이동 순서** ([C++][11729])
+
+[2156]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/2156/main.cpp
+[11729]: https://github.com/gonini/BeakjoonOnlineJudge/tree/master/C%2B%2B/11729/main.cpp
