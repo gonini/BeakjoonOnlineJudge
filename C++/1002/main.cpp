@@ -22,9 +22,8 @@ int main(void){
             ret = 1;
         } else if (rDiffer < distance && distance < rSum) {
             ret = 2;
-        } else{
-            ret = 0;
         }
+        
         printf("%d\n", ret);
     }
 }
