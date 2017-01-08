@@ -25,13 +25,13 @@ Updated solution
 [1000_boj]: https://www.acmicpc.net/problem/1000
 
 [1001]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/1001/main.cpp
-[1001_boj]: https://www.acmicpc.net/problem/1000
+[1001_boj]: https://www.acmicpc.net/problem/1001
 
 [1002]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/1002/main.cpp
-[1002_boj]: https://www.acmicpc.net/problem/1000
+[1002_boj]: https://www.acmicpc.net/problem/1002
 
 [1003]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/1003/main.cpp
-[1003_boj]: https://www.acmicpc.net/problem/1000
+[1003_boj]: https://www.acmicpc.net/problem/1003
 
 [1992]: https://github.com/gonini/BeakjoonOnlineJudge/tree/master/C%2B%2B/1992/main.cpp
 [1992_boj]: https://www.acmicpc.net/problem/1992
