@@ -20,6 +20,7 @@ Updated solution
  - **[1992][1992_boj] 쿼드트리** ([C++11][1992])
  - **[2156][2156_boj] 포도주 시식** ([C++11][2156])
  - **[2331][2331_boj] 반복수열** ([C++11][2331])
+ - **[9466][9466_boj] 텀 프로젝트** ([C++11][9466])
  - **[10451][10451_boj] 순열 사이클** ([C++11][10451])
  - **[11724][11724_boj] 연결 요소의 개수** ([C++11][11724])
  - **[11729][11729_boj] 하노이 탑 이동 순서** ([C++11][11729])
@@ -52,6 +53,9 @@ Updated solution
 
 [2331]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/2331/main.cpp
 [2331_boj]: https://www.acmicpc.net/problem/2331
+
+[9466]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/9466/main.cpp
+[9466_boj]: https://www.acmicpc.net/problem/9466
 
 [10451]: https://github.com/gonini/BeakjoonOnlineJudge/tree/master/C%2B%2B/10451/main.cpp
 [10451_boj]: https://www.acmicpc.net/problem/10451
