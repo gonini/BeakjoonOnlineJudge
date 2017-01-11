@@ -17,6 +17,7 @@ Updated solution
  - **[1003][1003_boj] 피보나치 함수** ([C++11][1003])
  - **[1004][1004_boj] 어린 왕자** ([C++11][1004])
  - **[1260][1260_boj] DFS와 BFS** ([C++11][1260])
+ - **[1766][1766_boj] 문제집** ([C++11][1766])
  - **[1992][1992_boj] 쿼드트리** ([C++11][1992])
  - **[2156][2156_boj] 포도주 시식** ([C++11][2156])
  - **[2252][2252_boj] 줄 세우기** ([C++11][2252])
@@ -45,6 +46,9 @@ Updated solution
 
 [1260]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/1260/main.cpp
 [1260_boj]: https://www.acmicpc.net/problem/1260
+
+[1766]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/1766/main.cpp
+[1766_boj]: https://www.acmicpc.net/problem/1766
 
 [1992]: https://github.com/gonini/BeakjoonOnlineJudge/tree/master/C%2B%2B/1992/main.cpp
 [1992_boj]: https://www.acmicpc.net/problem/1992
