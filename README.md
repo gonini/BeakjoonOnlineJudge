@@ -19,6 +19,7 @@ Updated solution
  - **[1260][1260_boj] DFS와 BFS** ([C++11][1260])
  - **[1992][1992_boj] 쿼드트리** ([C++11][1992])
  - **[2156][2156_boj] 포도주 시식** ([C++11][2156])
+ - **[2252][2252_boj] 줄 세우기** (C++11][2252])
  - **[2331][2331_boj] 반복수열** ([C++11][2331])
  - **[9466][9466_boj] 텀 프로젝트** ([C++11][9466])
  - **[10451][10451_boj] 순열 사이클** ([C++11][10451])
@@ -50,6 +51,9 @@ Updated solution
  
 [2156]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/2156/main.cpp
 [2156_boj]: https://www.acmicpc.net/problem/2156
+
+[2252]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/2252/main.cpp
+[2252_boj]: https://www.acmicpc.net/problem/2252
 
 [2331]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/2331/main.cpp
 [2331_boj]: https://www.acmicpc.net/problem/2331
