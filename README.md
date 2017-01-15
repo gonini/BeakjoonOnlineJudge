@@ -17,6 +17,7 @@ Updated solution
  - **[1003][1003_boj] 피보나치 함수** ([C++11][1003])
  - **[1004][1004_boj] 어린 왕자** ([C++11][1004])
  - **[1005][1005_boj] ACM Craft** ([C++11][1005])
+ - **[1149][1149_boj] RGB거리** ([C++11][1149])
  - **[1260][1260_boj] DFS와 BFS** ([C++11][1260])
  - **[1516][1516_boj] 게임 개발** ([C++11][1516])
  - **[1766][1766_boj] 문제집** ([C++11][1766])
@@ -50,6 +51,9 @@ Updated solution
 
 [1005]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/1005/main.cpp
 [1005_boj]: https://www.acmicpc.net/problem/1005
+
+[1149]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/1149/main.cpp
+[1149_boj]: https://www.acmicpc.net/problem/1149
 
 [1260]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/1260/main.cpp
 [1260_boj]: https://www.acmicpc.net/problem/1260
