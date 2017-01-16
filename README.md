@@ -27,6 +27,7 @@ Updated solution
  - **[2156][2156_boj] 포도주 시식** ([C++11][2156])
  - **[2252][2252_boj] 줄 세우기** ([C++11][2252])
  - **[2331][2331_boj] 반복수열** ([C++11][2331])
+ - **[2447][2447_boj] 별찍기 - 10** ([C++11][2447])
  - **[9466][9466_boj] 텀 프로젝트** ([C++11][9466])
  - **[10451][10451_boj] 순열 사이클** ([C++11][10451])
  - **[11724][11724_boj] 연결 요소의 개수** ([C++11][11724])
@@ -81,6 +82,9 @@ Updated solution
 
 [2331]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/2331/main.cpp
 [2331_boj]: https://www.acmicpc.net/problem/2331
+
+[2447]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/2447/main.cpp
+[2447_boj]: https://www.acmicpc.net/problem/2447
 
 [9466]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/9466/main.cpp
 [9466_boj]: https://www.acmicpc.net/problem/9466
