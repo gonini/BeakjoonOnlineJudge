@@ -28,10 +28,9 @@ int main(void) {
 }
 
 int biggestSweets(int x, int y) {
-    if(!(1 <= x && 1 <= y && n >= x && m >= y)) {
+    if(!(n >= x && m >= y)) {
         return RANGE_OUT;
     }
-    
     int& here = cache[x][y];
     if(here != -1) {
         return here;
@@ -39,6 +38,6 @@ int biggestSweets(int x, int y) {
     if(x == n && y == m) {
         return here = maze[x][y];
     }
-    int biggest = maze[x][y] + max(biggestSweets(x + 1, y), max(biggestSweets(x, y + 1), biggestSweets(x + 1, y + 1)));
+    int biggest = maze[x][y] + max(biggestSweets(x, y + 1), biggestSweets(x + 1, y));
     return here = biggest;
 }
