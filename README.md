@@ -23,6 +23,7 @@ Updated solution
  - **[1561][1561_boj] 놀이 공원** ([C++11][1561])
  - **[1707][1707_boj] 이분 그래프** ([C++11][1707])
  - **[1766][1766_boj] 문제집** ([C++11][1766])
+ - **[1890][1890_boj] 점프** ([C++11][1890])
  - **[1922][1922_boj] 네트워크 연결** ([C++11][1922])
  - **[1992][1992_boj] 쿼드트리** ([C++11][1992])
  - **[2056][2056_boj] 작업** ([C++11][2056])
@@ -74,6 +75,9 @@ Updated solution
 
 [1766]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/1766/main.cpp
 [1766_boj]: https://www.acmicpc.net/problem/1766
+
+[1890]: https://github.com/gonini/BeakjoonOnlineJudge/tree/master/C%2B%2B/1890/main.cpp
+[1890_boj]: https://www.acmicpc.net/problem/1890
 
 [1922]: https://github.com/gonini/BeakjoonOnlineJudge/tree/master/C%2B%2B/1922/main.cpp
 [1922_boj]: https://www.acmicpc.net/problem/1922
