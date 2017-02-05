@@ -19,6 +19,7 @@ Updated solution
  - **[1005][1005_boj] ACM Craft** ([C++11][1005])
  - **[1149][1149_boj] RGB거리** ([C++11][1149])
  - **[1260][1260_boj] DFS와 BFS** ([C++11][1260])
+ - **[1309][1309_boj] 동물원** ([C++11][1309])
  - **[1516][1516_boj] 게임 개발** ([C++11][1516])
  - **[1561][1561_boj] 놀이 공원** ([C++11][1561])
  - **[1707][1707_boj] 이분 그래프** ([C++11][1707])
@@ -64,6 +65,9 @@ Updated solution
 
 [1260]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/1260/main.cpp
 [1260_boj]: https://www.acmicpc.net/problem/1260
+
+[1309]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/1309/main.cpp
+[1309_boj]: https://www.acmicpc.net/problem/1309
 
 [1516]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/1516/main.cpp
 [1516_boj]: https://www.acmicpc.net/problem/1516
