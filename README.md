@@ -26,6 +26,7 @@ Updated solution
  - **[1766][1766_boj] 문제집** ([C++11][1766])
  - **[1890][1890_boj] 점프** ([C++11][1890])
  - **[1922][1922_boj] 네트워크 연결** ([C++11][1922])
+ - **[1937][1937_boj] 욕심쟁이 판다** ([C++11][1937])
  - **[1992][1992_boj] 쿼드트리** ([C++11][1992])
  - **[2056][2056_boj] 작업** ([C++11][2056])
  - **[2156][2156_boj] 포도주 시식** ([C++11][2156])
@@ -86,6 +87,9 @@ Updated solution
 
 [1922]: https://github.com/gonini/BeakjoonOnlineJudge/tree/master/C%2B%2B/1922/main.cpp
 [1922_boj]: https://www.acmicpc.net/problem/1922
+
+[1937]: https://github.com/gonini/BeakjoonOnlineJudge/tree/master/C%2B%2B/1937/main.cpp
+[1937_boj]: https://www.acmicpc.net/problem/1937
 
 [1992]: https://github.com/gonini/BeakjoonOnlineJudge/tree/master/C%2B%2B/1992/main.cpp
 [1992_boj]: https://www.acmicpc.net/problem/1992
