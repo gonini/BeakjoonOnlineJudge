@@ -37,7 +37,8 @@ Updated solution
  - **[9466][9466_boj] 텀 프로젝트** ([C++11][9466])
  - **[10451][10451_boj] 순열 사이클** ([C++11][10451])
  - **[10942][10942_boj] 팰린드롬?** ([C++11][10942])
- - **[10971][10451_boj] 외판원 순회 2** ([C++11][10971])
+ - **[10971][10971_boj] 외판원 순회 2** ([C++11][10971])
+ - **[10974][10974_boj] 모든순열** ([C++11][10974])
  - **[11048][11048_boj] 이동하기** ([C++11][11048])
  - **[11724][11724_boj] 연결 요소의 개수** ([C++11][11724])
  - **[11729][11729_boj] 하노이 탑 이동 순서** ([C++11][11729])
@@ -124,6 +125,9 @@ Updated solution
 
 [10971]: https://github.com/gonini/BeakjoonOnlineJudge/tree/master/C%2B%2B/10971/main.cpp
 [10971_boj]: https://www.acmicpc.net/problem/10971
+
+[10974]: https://github.com/gonini/BeakjoonOnlineJudge/tree/master/C%2B%2B/10974/main.cpp
+[10974_boj]: https://www.acmicpc.net/problem/10974
 
 [11048]: https://github.com/gonini/BeakjoonOnlineJudge/tree/master/C%2B%2B/11048/main.cpp
 [11048_boj]: https://www.acmicpc.net/problem/11048
