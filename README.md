@@ -22,6 +22,7 @@ Updated solution
  - **[1309][1309_boj] 동물원** ([C++11][1309])
  - **[1516][1516_boj] 게임 개발** ([C++11][1516])
  - **[1561][1561_boj] 놀이 공원** ([C++11][1561])
+ - **[1654][1654_boj] 랜선 자르기** ([C++11][1654])
  - **[1707][1707_boj] 이분 그래프** ([C++11][1707])
  - **[1766][1766_boj] 문제집** ([C++11][1766])
  - **[1890][1890_boj] 점프** ([C++11][1890])
@@ -77,6 +78,9 @@ Updated solution
 
 [1561]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/1561/main.cpp
 [1561_boj]: https://www.acmicpc.net/problem/1561
+
+[1654]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/1654/main.cpp
+[1654_boj]: https://www.acmicpc.net/problem/1654
 
 [1707]: https://github.com/gonini/BeakjoonOnlineJudge/blob/master/C%2B%2B/1707/main.cpp
 [1707_boj]: https://www.acmicpc.net/problem/1707
